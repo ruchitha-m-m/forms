@@ -1,0 +1,15 @@
+body{
+    padding-left: 400px;
+    padding-top: 200px;
+    background-color: black;
+    
+
+}
+div{
+    padding: 8px;
+    display: flex;
+    color: aliceblue;
+    
+
+    
+}
